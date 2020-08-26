@@ -1,0 +1,167 @@
+body{
+}
+
+.container{
+padding-bottom: 20px;
+}
+.nav{
+    height: 50px;
+}
+
+.navigation{
+    padding: 10px 0px;
+    background: rgb(216, 243, 216);
+}
+.button{
+    border: none solid green;
+    border-radius: 50px;
+    background: rgb(55, 192, 123);
+    color: white;
+    padding: 7px 20px;
+}
+
+.nav-item span{
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+}
+.nav-item a{
+    color: black;
+    font-size: 20px;
+    font-weight: 600;
+}
+.nav-item a:hover{
+    color: blue;
+   
+}
+.silder h6{
+    color: tomato;
+}
+.sildertop{
+    color: rgb(55, 192, 123);
+    padding-left: 10px ;
+    
+}
+.silder h1{
+    font-size: 50px;
+    font-weight: 800;
+}
+.sbutton{
+    border: none solid green;
+    border-radius: 50px;
+    background: rgb(55, 192, 123);
+    color: white;
+    text-align: center;
+    width: 150px;
+}
+.slide{
+    background: rgb(215, 248, 215);  
+}
+.leftside img{
+    float: left;
+    height: 100px;
+    
+}
+.leftside{
+    padding: 30px 20px;
+    
+   
+}
+.leftside h2{
+    padding-top: 10px;
+   
+} 
+.midlle {
+    box-shadow: 5px 5px 20px lightgrey;
+    height: 200px;
+    width: 100px;
+}
+.card{
+    border: none;
+    padding: 12px 10px;
+    border-radius: 20px;
+}
+.sadow{
+    box-shadow: 10px 10px 10px rgb(198, 198, 199);
+}
+.card img{
+    padding-top: 20px;
+}
+.card h4{
+     color: rgb(5, 5, 54);
+    }
+.cardbutton{
+   
+        border: none solid green;
+        border-radius: 50px;
+        background: rgb(55, 192, 123);
+        color: white;
+        text-align: center;
+        width: 130px;
+        padding: 5px 10px;
+    }
+    .test{
+        text-align: center;
+    }
+    .test h1{
+        text-align: center;
+        font-weight: 700;
+        padding: 40px 0px;
+    }
+    .testominal{
+        text-align: center;
+    }
+    .testominal img{
+        height: 100px;
+    }
+footer{
+    background: rgb(43, 43, 47);
+    color: white;
+
+}
+    
+footer p{
+    padding: 20px 30px;
+}
+footer ul{
+    padding: 20px 30px;
+}
+
+footer li{
+   list-style: none;
+}
+footer span{
+    background: red;
+    text-align: center;
+    justify-items: center;
+    
+    
+}
+.book-img img {
+    width: 25%;
+}
+section.books-area {
+    
+    padding: 70px 0px;
+}
+.single-book {
+    padding: 30px 0px;
+    border-radius: 5px;
+    background: #F8FFFB;
+    transition: .3s;
+    
+}
+.single-book:hover{
+    transform: scale(1.05);
+    box-shadow: 0 0 12px 0 rgba(0, 0, 0, .15);
+    background: #fff;
+
+}
+.book-Shadow{
+    box-shadow: 0 0 12px 0 rgba(0, 0, 0, .15);
+    background: #fff;
+}
+.single-book:hover img{
+    transform: scale(1.05);
+}
+
